@@ -93,6 +93,6 @@ A sobrevivência depende mais de **decisão e estratégia** do que de reflexos.
 ### Clonar o repositório e executar
 ```bash
 git clone https://github.com/Loboguar4/ALIEN_CLI_SURVIVAL.git
-cd seu-repositorio
+cd ALIEN_CLI_SURVIVAL
 
 python3 main.py
