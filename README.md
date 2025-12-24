@@ -11,7 +11,7 @@ Copyright (C) 2025 Bandeirinha
 
 ## ⚠️ Aviso legal (Disclaimer)
 
-Este é um fan game não oficial, criado por fãs.
+Este é um fan game não oficial, criado por fã.
 
 Este projeto não possui qualquer afiliação, endosso ou associação oficial com a franquia Alien, a 20th Century Studios ou quaisquer detentores de direitos da obra original.
 
