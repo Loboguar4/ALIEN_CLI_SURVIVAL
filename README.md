@@ -34,7 +34,7 @@ Caso algum detentor de direitos considere este uso inadequado, o autor se compro
 
 ## 📖 Visão geral
 
-**Alien: Terminal Survival** é um jogo single-player baseado em texto, projetado para criar tensão e imersão usando apenas o terminal como interface.
+**Alien: CLI Survival** é um jogo single-player baseado em texto, projetado para criar tensão e imersão usando apenas o terminal como interface.
 
 O jogador assume o papel de um tripulante isolado em uma nave espacial avariada, enfrentando falhas sistêmicas, eventos imprevisíveis e organismos hostis enquanto aguarda um possível resgate.
 
